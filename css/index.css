@@ -1,0 +1,44 @@
+.mw-300{
+    max-width: 350px;
+}
+
+.mh-50{
+    min-height: 50px;
+}
+
+.mh-100{
+    min-height: 100px;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: linear-gradient(90deg,
+        rgb(49, 203, 255),
+        rgb(197, 247, 197)
+        );
+}
+
+.bg-dark-trans{
+    background: rgba(22, 22, 22, 0.753);
+}
+
+.custom-input-field{
+    background: rgba(22, 22, 22, 0.753);
+    color: white;
+    
+}
+
+.custom-input-field:focus{
+    background: rgba(5, 44, 51, 0.753);
+    color: rgba(190, 245, 255, 0.753);
+    box-shadow: rgba(102, 232, 255, 0.753);
+}
+
+
+.max-height-50{
+    max-height: 50px;
+}
+
+.hide{
+    top: -80px;
+}
